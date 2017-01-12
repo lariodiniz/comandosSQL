@@ -17,3 +17,11 @@ NOTE: COMMANDS WERE ONLY TESTED IN SQL Server 2008 EXPRESS - Microsoft.com
     
     A series of simple commands that are used every day.
     Select, Create, Insert, Alters
+
+---- ColunasDeTabela:
+
+    Gera uma tabela com os nomes das colunas de uma tabela, tipo de cada coluna e se cada coluna aceita ou não valor nulo.
+    
+    -------
+    
+    Generates a table with the names of the columns of a table, type of each column and whether each column accepts or not null value.
