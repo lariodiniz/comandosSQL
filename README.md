@@ -34,4 +34,12 @@ NOTE: COMMANDS WERE ONLY TESTED IN SQL Server 2008 EXPRESS - Microsoft.com
     
     Generates a list with the names of the database table.
 
+---- formatCPF:
+
+    Formata um inteiro para o padrão CPF.
+    
+    -------
+    
+    Formats an integer for the CPF standard.
+
 
