@@ -42,4 +42,13 @@ NOTE: COMMANDS WERE ONLY TESTED IN SQL Server 2008 EXPRESS - Microsoft.com
     
     Formats an integer for the CPF standard.
 
+---- StringParaReal:
+
+    Substitui uma string com , por ponto e transforma em Numeric.
+    
+    -------
+    
+    Replaces a string with, per point and transforms into Numeric.
+
+
 
